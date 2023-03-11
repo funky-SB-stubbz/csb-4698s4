@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://funky-sb-stubbz.github.io/csb-4698s4/static/css/main.68588cd6.chunk.css",
+    "main.js": "https://funky-sb-stubbz.github.io/csb-4698s4/static/js/main.ce1cb139.chunk.js",
+    "main.js.map": "https://funky-sb-stubbz.github.io/csb-4698s4/static/js/main.ce1cb139.chunk.js.map",
+    "runtime-main.js": "https://funky-sb-stubbz.github.io/csb-4698s4/static/js/runtime-main.8a7cb906.js",
+    "runtime-main.js.map": "https://funky-sb-stubbz.github.io/csb-4698s4/static/js/runtime-main.8a7cb906.js.map",
+    "static/css/2.b8e408b6.chunk.css": "https://funky-sb-stubbz.github.io/csb-4698s4/static/css/2.b8e408b6.chunk.css",
+    "static/js/2.e1cb5150.chunk.js": "https://funky-sb-stubbz.github.io/csb-4698s4/static/js/2.e1cb5150.chunk.js",
+    "static/js/2.e1cb5150.chunk.js.map": "https://funky-sb-stubbz.github.io/csb-4698s4/static/js/2.e1cb5150.chunk.js.map",
+    "index.html": "https://funky-sb-stubbz.github.io/csb-4698s4/index.html",
+    "static/css/2.b8e408b6.chunk.css.map": "https://funky-sb-stubbz.github.io/csb-4698s4/static/css/2.b8e408b6.chunk.css.map",
+    "static/css/main.68588cd6.chunk.css.map": "https://funky-sb-stubbz.github.io/csb-4698s4/static/css/main.68588cd6.chunk.css.map",
+    "static/js/2.e1cb5150.chunk.js.LICENSE.txt": "https://funky-sb-stubbz.github.io/csb-4698s4/static/js/2.e1cb5150.chunk.js.LICENSE.txt",
+    "static/media/icon.d31eaff1.png": "https://funky-sb-stubbz.github.io/csb-4698s4/static/media/icon.d31eaff1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a7cb906.js",
+    "static/css/2.b8e408b6.chunk.css",
+    "static/js/2.e1cb5150.chunk.js",
+    "static/css/main.68588cd6.chunk.css",
+    "static/js/main.ce1cb139.chunk.js"
+  ]
+}
